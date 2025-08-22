@@ -1,1 +1,1 @@
-This project demonstrates the design and development of an interactive Power BI dashboard using a super store sales dataset.
+This project demonstrates the design and development of an interactive Power BI dashboard using a super store sales dataset.The dashboard enables management to analyze sales performance across products, categories, regions, helping stakeholders make data-driven decisions.
